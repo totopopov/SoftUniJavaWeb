@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="brocollina">
+    <output-path>$PROJECT_DIR$/out/artifacts/brocollina</output-path>
+    <root id="archive" name="brocollina.jar">
+      <element id="directory" name="org">
+        <element id="directory" name="softuni">
+          <element id="directory" name="broccolina">
+            <element id="file-copy" path="$PROJECT_DIR$/out/production/broccolina/org/softuni/broccolina/BroccolinaRequestHandler.class" />
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,6 @@
+The bat file is specified for my project path therefore , in order to work on a different machine a new specific path to org.softuni.javache.StartUp needs to be put. 
+
+The idea is to run the project regardless from where your bat file is.
+
+
+Mind the  default port is 8080.
